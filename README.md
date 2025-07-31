@@ -1,7 +1,5 @@
 # Sistema de Recuperación Multimodal de Información con RAG
 
-# Sistema de Recuperación Multimodal de Información (Mini-RAG)
-
 
 ## 📌 Descripción
 
