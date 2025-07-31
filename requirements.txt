@@ -1,0 +1,19 @@
+# Procesamiento de texto
+nltk
+
+# Vectorización
+scikit-learn
+
+# Similaridad
+rank-bm25
+
+# Preprocesamiento adicional
+pandas
+numpy
+
+# backend
+fastapi
+uvicorn[standard]
+
+# Almacenamiento de datos
+jsonlines
