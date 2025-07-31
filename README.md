@@ -1,1 +1,1 @@
-# SRI2025
+# Sistema de Recuperación Multimodal de Información con RAG
